@@ -27,12 +27,23 @@ ol {
     margin: 10px 20px;
 }
 
-.button {
+.buttonG {
     padding: 10px 20px;
-    background-color: black;
+    background-color: green;
+    color: white;
+}
+.buttonN {
+    padding: 10px 20px;
+    background-color: peru;
+    color: white;
+}
+.buttonB {
+    padding: 10px 20px;
+    background-color: red;
     color: white;
 }
 .buttonRes{
     padding: 10px;
-    background-color: red;
+    background-color: white;
+    color: black;
 }
